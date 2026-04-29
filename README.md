@@ -1,4 +1,4 @@
-# Bot Telegram — Reparto Propaganda di Pactum Patriae
+# Bot Telegram — Reparto Propaganda di Progresso Riformista
 
 ## Struttura del progetto
 
