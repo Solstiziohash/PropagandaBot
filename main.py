@@ -1,5 +1,5 @@
 """
-Entry point del Bot Telegram — Reparto Propaganda di Pactum Patriae.
+Entry point del Bot Telegram — Reparto Propaganda di Progresso Riformista.
 
 """
 
